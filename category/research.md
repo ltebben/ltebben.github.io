@@ -20,6 +20,6 @@ visually compare two programs, and gives us the opportunity to create a distance
 
 The other contribution I made was creating a program to calculate the distances between two programs. This approach did not work with the graphs I created in the first approach, but rather generalized an approach by Dr. Numrich in order to calculate these distances without first running the program. Below you can see some of my results. 
 
-[Sample 1](s1.png) [Sample 2](s2.png) [Sample 3](s3.png)
+[Sample 1](../s1.png) [Sample 2](../s2.png) [Sample 3](../s3.png)
 
 Figure 1. (Left and center) Two samples of malware from the same malware class. You can see that they appear visually similar. (Right) A sample of malware from a different malware class. You can see that it is visually different form the previous samples. 
