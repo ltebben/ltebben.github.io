@@ -6,16 +6,10 @@ category: research
 
 An ongoing blog about my experiences with research this semester!
 
----
-layout: category
-title: Research
-category: research
----
-
-An ongoing blog about my experiences with research this semester! 
 
 ### Showcase
 Fall and spring semesters of my senior year, I worked as an undergraduate research assistant on a project funded by the Airforce. The grant was to investigate ways that biological systems fight viruses and try to apply those ideas to computing. This was my first experience with research, and I learned a lot, both about the research topic and about the research process.  
+
 
 For most of the first semester, this experience involved reading papers and formulating ideas about how we could apply the concepts to computing. I sent monthly reports to the professor I was researching under, Anca Ralescu, detailing the papers I had read and the ideas I had come up with. 
 
